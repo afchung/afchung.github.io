@@ -29,6 +29,4 @@ Software engineer passionate about big data management systems and large-scale d
 
 ### Writing
 
-Coming soon(?)
-
----
+Trying to get into the habit of writing. Have a look [here](writing.html) if you're interested!
