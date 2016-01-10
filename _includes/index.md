@@ -14,19 +14,14 @@ Software engineer passionate about big data management systems and large-scale d
 
 ### Current
 
-* Software engineer at [Microsoft](http://www.microsoft.com/) working on [Azure Stream Analytics](http://azure.microsoft.com/en-us/services/stream-analytics/)
-* Apache committer for [Apache REEF (Incubation)](http://reef.incubator.apache.org/)
+* Software engineer and Apache committer at [Microsoft](http://www.microsoft.com/) working on [Apache REEF](http://reef.apache.org/)
 
 ---
 
 ### Previous
 
+* Software engineer at [Microsoft](http://www.microsoft.com/) working on [Azure Stream Analytics](http://azure.microsoft.com/en-us/services/stream-analytics/)
 * [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/)
 * Technology Intern at [Susquehanna International Group](http://www.sig.com/)
+* Teaching assistant for [Database Applications](http://www.cs.cmu.edu/~christos/courses/dbms.S13/) at [Carnegie Mellon University](http://www.cmu.edu/)
 * Application Developer Intern at [JPMorgan Chase & Co.](http://www.jpmorganchase.com/)
-
----
-
-### Writing
-
-Trying to get into the habit of writing. Have a look [here](writing.html) if you're interested!
