@@ -14,7 +14,7 @@ Software engineer passionate about big data management systems and large-scale d
 
 ### Current
 
-* Software engineer and Apache committer at [Microsoft](http://www.microsoft.com/) working on [Apache REEF](http://reef.apache.org/)
+* Software Engineer and Apache Committer at [Microsoft](http://www.microsoft.com/) working on [Apache REEF](http://reef.apache.org/)
 
 ---
 
