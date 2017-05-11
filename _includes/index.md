@@ -20,10 +20,12 @@
 
 * **Proteus: agile ML elasticity through tiered reliability in dynamic resource markets**  
 Aaron Harlap, Alexey Tumanov, **Andrew Chung**, Gregory R. Ganger, Phillip B. Gibbons  
-ACM European Conference on Computer Systems, 2017 (EuroSys'17)
+ACM European Conference on Computer Systems, 2017 (EuroSys'17)  
+\[[Link](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/Proteus.pdf)\] \[[BibTeX](https://goo.gl/df7klU)\]  
 * **Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters**  
 Youngseok Yang, Geon-Woo Kim, Won Wook Song, Yunseong Lee, **Andrew Chung**, Zhengping Qian, Brian Cho, Byung-Gon Chun  
-ACM European Conference on Computer Systems, 2017 (EuroSys'17)
+ACM European Conference on Computer Systems, 2017 (EuroSys'17)  
+\[[Link](http://dl.acm.org/citation.cfm?id=3064181)\] \[[BibTeX](https://goo.gl/1VNiQu)\]
 
 ---
 
