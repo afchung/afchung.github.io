@@ -1,0 +1,5 @@
+@article{harlap2018tributary,
+  title={Tributary: spot-dancing for elastic services with latency SLOs},
+  author={Harlap, Aaron and Chung, Andrew and Tumanov, Alexey and Ganger, Gregory R and Gibbons, Phillip B},
+  year={2018}
+}
