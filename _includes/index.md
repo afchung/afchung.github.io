@@ -18,12 +18,14 @@
 
 ### Publications
 
-#### Peer-reviewed conferences
+#### Journals
 
 * **Apache REEF: Retainable Evaluator Execution Framework**  
 B. G. Chun, T. Condie, Y. Chen, B. Cho, **A. Chung**, C. Curino, C. Douglas, M. Interlandi, B. Jeon, J. S. Jeong, G. W. Lee, Y. Lee, T. Majestro, D. Malkhi, S. Matusevych, B. Myers, M. Mykhailova, S. Narayanamurthy, J. Noor, R. Ramakrishnan, S. Rao, R. Sears, B. Sezgin, T. G. Um, J. Wang, M. Weimer, Y. Yang  
 _ACM Transactions on Computer Systems, Volume 35 Issue 2, 2017_  
 \[[Link](https://dl.acm.org/citation.cfm?id=3132037)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/chun2017reef.txt %})]
+
+#### Peer-reviewed conferences
 
 * **Proteus: agile ML elasticity through tiered reliability in dynamic resource markets**  
 A. Harlap, A. Tumanov, **A. Chung**, G. R. Ganger, P. B. Gibbons  
