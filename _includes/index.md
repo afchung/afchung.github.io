@@ -54,6 +54,5 @@ _Parallel Data Lab Technical Report CMU-PDL-18-102, Jan. 2018._
 ### Industry experience
 
 * Software engineer working on [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) and Apache REEF at [Microsoft](https://www.microsoft.com/)
-* [Integrated MS/BS](https://www.ece.cmu.edu/programs-admissions/integrated/) student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at Carnegie Mellon University
 * Technology intern at [Susquehanna International Group](https://www.sig.com/)
 * Application developer intern at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
