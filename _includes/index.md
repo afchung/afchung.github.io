@@ -44,10 +44,16 @@ _Parallel Data Lab Technical Report CMU-PDL-18-102, Jan. 2018._
 
 ---
 
-### Experience
+### Teaching
+
+* TA for [Advanced Cloud Computing (S18)](https://www.cs.cmu.edu/~15719) at Carnegie Mellon University
+* TA for [Database Applications (S13)](https://www.cs.cmu.edu/~christos/courses/dbms.S13/) at Carnegie Mellon University
+
+---
+
+### Industry experience
 
 * Software engineer working on [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) and Apache REEF at [Microsoft](https://www.microsoft.com/)
 * [Integrated MS/BS](https://www.ece.cmu.edu/programs-admissions/integrated/) student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at Carnegie Mellon University
 * Technology intern at [Susquehanna International Group](https://www.sig.com/)
-* Teaching assistant for [Database Applications](https://www.cs.cmu.edu/~christos/courses/dbms.S13/) at Carnegie Mellon University
 * Application developer intern at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
