@@ -21,7 +21,7 @@
 #### Peer-reviewed conferences
 
 * **Tributary: spot-dancing for elastic services with latency SLOs**  
-A. Harlap\*, **A. Chung**\*, A. Tumanov, G. R. Ganger, P.B. Gibbons (\* denotes equal contribution)  
+A. Harlap\*, **A. Chung**\*, A. Tumanov, G. R. Ganger, P. B. Gibbons (\* denotes equal contribution)  
 _USENIX Annual Technical Conference, 2018 (USENIX ATC'18)_  
 \[[Link](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/harlap-usenix-atc-2018.pdf)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/harlap-2018-atc-tributary.bib %})\]  
 
@@ -47,7 +47,7 @@ _ACM Transactions on Computer Systems, Volume 35 Issue 2, 2017_
 #### Technical reports
 
 * **Tributary: spot-dancing for elastic services with latency SLOs**  
-A. Harlap\*, **A. Chung**\*, A. Tumanov, G. R. Ganger, P.B. Gibbons (\* denotes equal contribution)  
+A. Harlap\*, **A. Chung**\*, A. Tumanov, G. R. Ganger, P. B. Gibbons (\* denotes equal contribution)  
 _Parallel Data Lab Technical Report CMU-PDL-18-102, Jan. 2018._  
 \[[Link](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/CMU-PDL-18-102.pdf)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/harlap-2018-techreport-tributary.bib %})\]  
 
