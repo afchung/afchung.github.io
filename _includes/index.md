@@ -20,6 +20,10 @@
 
 #### Peer-reviewed conferences
 
+* **Stratus: cost-aware container scheduling in the public cloud**  
+**A. Chung**, J. W. Park, G. R. Ganger  
+_To appear in ACM Symposium on Cloud Computing, 2018 (SoCC'18)_  
+
 * **Tributary: spot-dancing for elastic services with latency SLOs**  
 A. Harlap\*, **A. Chung**\*, A. Tumanov, G. R. Ganger, P. B. Gibbons (\* denotes equal contribution)  
 _USENIX Annual Technical Conference, 2018 (USENIX ATC'18)_  
