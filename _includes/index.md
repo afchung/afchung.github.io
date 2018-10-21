@@ -10,9 +10,12 @@
 
 * Ph.D. student at [Carnegie Mellon University's](https://www.cmu.edu/) [Computer Science Department](https://www.csd.cs.cmu.edu/) working with Professor [Greg Ganger](https://www.ece.cmu.edu/~ganger/)
 * Graduate research assistant at the [Parallel Data Lab](http://www.pdl.cmu.edu)
-* Committer for [Apache REEF](https://reef.apache.org/)
-* Interested in cloud computing and distributed systems
-* Contributes to [open source](https://github.com/afchung)
+
+---
+
+### Research interests
+
+I am interested in the broad area of cloud computing, with a focus on the topic of cluster scheduling.
 
 ---
 
@@ -22,7 +25,9 @@
 
 * **Stratus: cost-aware container scheduling in the public cloud**  
 **A. Chung**, J. W. Park, G. R. Ganger  
-_To appear in ACM Symposium on Cloud Computing, 2018 (SoCC'18)_  
+_ACM Symposium on Cloud Computing, 2018 (SoCC'18)_  
+**[Best student paper award]**  
+\[[Link](http://www.pdl.cmu.edu/PDL-FTP/CloudComputing/p121-Chung.pdf)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/chung-2018-socc-stratus.bib %})\]  
 
 * **Tributary: spot-dancing for elastic services with latency SLOs**  
 A. Harlap\*, **A. Chung**\*, A. Tumanov, G. R. Ganger, P. B. Gibbons (\* denotes equal contribution)  
@@ -48,13 +53,6 @@ _ACM Transactions on Computer Systems, Volume 35 Issue 2, 2017_
 \[[Link](https://dl.acm.org/citation.cfm?id=3132037)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/chun-2017-toc-reef.bib %})]
 
 
-#### Technical reports
-
-* **Tributary: spot-dancing for elastic services with latency SLOs**  
-A. Harlap\*, **A. Chung**\*, A. Tumanov, G. R. Ganger, P. B. Gibbons (\* denotes equal contribution)  
-_Parallel Data Lab Technical Report CMU-PDL-18-102, Jan. 2018._  
-\[[Link](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/CMU-PDL-18-102.pdf)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/harlap-2018-techreport-tributary.bib %})\]  
-
 ---
 
 ### Teaching
@@ -64,8 +62,9 @@ _Parallel Data Lab Technical Report CMU-PDL-18-102, Jan. 2018._
 
 ---
 
-### Industry experience
+### Experience
 
+* Committer and PMC member of [Apache REEF](https://reef.apache.org/)
 * Research intern at [Microsoft](https://www.microsoft.com/)'s Cloud and Information Services Lab (CISL), mentored by [Carlo Curino](https://www.microsoft.com/en-us/research/people/ccurino/)
 * Software engineer working on [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) and Apache REEF at Microsoft
 * Technology intern at [Susquehanna International Group](https://www.sig.com/)
