@@ -8,12 +8,8 @@
 
 ### About
 
-* Ph.D. student at [Carnegie Mellon University's](https://www.cmu.edu/) [Computer Science Department](https://www.csd.cs.cmu.edu/) working with Professor [Greg Ganger](https://www.ece.cmu.edu/~ganger/)
-* Graduate research assistant at the [Parallel Data Lab](http://www.pdl.cmu.edu)
-
----
-
-### Research interests
+I am a Ph.D. student at [Carnegie Mellon University's](https://www.cmu.edu/) [Computer Science Department](https://www.csd.cs.cmu.edu/), working with Professor [Greg Ganger](https://www.ece.cmu.edu/~ganger/).
+I am also affiliated with the [Parallel Data Lab](http://www.pdl.cmu.edu).  
 
 I am interested in the broad area of cloud computing, with a focus on the topic of cluster scheduling.
 
