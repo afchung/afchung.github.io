@@ -41,6 +41,13 @@ _ACM European Conference on Computer Systems, 2017 (EuroSys'17)_
 \[[Link](http://dl.acm.org/citation.cfm?id=3064181)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/yang-2017-eurosys-pado.bib %})\]
 
 
+#### Posters and demonstrations
+
+* **Peering through the dark: an Owl's view of inter-job dependencies and jobs' impact in shared clusters** (Demo)  
+**A. Chung**, C. Curino, S. Krishnan, K. Konstantinos, P. Garefalakis, G. R. Ganger  
+_To appear in ACM SIGMOD International Conference on Management of Data (SIGMOD '19)_  
+
+
 #### Journals
 
 * **Apache REEF: Retainable Evaluator Execution Framework**  
