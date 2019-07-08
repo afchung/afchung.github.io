@@ -45,7 +45,7 @@ _ACM European Conference on Computer Systems, 2017 (EuroSys'17)_
 
 * **Peering through the Dark: An Owl's View of Inter-job Dependencies and Jobs' Impact in Shared Clusters** (Demo)  
 **A. Chung**, C. Curino, S. Krishnan, K. Konstantinos, P. Garefalakis, G. R. Ganger  
-_ACM SIGMOD International Conference on Management of Data, 2019 (SIGMOD '19)_  
+_ACM SIGMOD International Conference on Management of Data, 2019 (SIGMOD'19)_  
 \[[Link](http://www.doc.ic.ac.uk/~pg1712/static/papers/mde696-chungA.pdf)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/chung-2019-sigmod-owl.bib %})\]
 
 
