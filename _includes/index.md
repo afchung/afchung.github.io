@@ -15,6 +15,14 @@ I am interested in the broad area of cloud computing, with a focus on the topic 
 
 ---
 
+### Thesis: Realizing value in shared compute infrastructures
+
+* **Proposal --- Carnegie Mellon University, 2020-02-06**  
+**Committee**: Gregory R. Ganger, Phillip B. Gibbons, George Amvrosiadis, Carlo Curino  
+\[[Document](resources/docs/thesis-proposal.pdf)\] \[[Slides](resources/docs/thesis-proposal-slides.pdf)\] \[[Poster](resources/docs/thesis-proposal-poster.pdf)\]  
+
+---
+
 ### Publications
 
 #### Peer-reviewed conferences
@@ -23,22 +31,22 @@ I am interested in the broad area of cloud computing, with a focus on the topic 
 **A. Chung**, J. W. Park, G. R. Ganger  
 _ACM Symposium on Cloud Computing, 2018 (SoCC'18)_  
 **[Best student paper award]**  
-\[[Link](http://www.pdl.cmu.edu/PDL-FTP/CloudComputing/p121-Chung.pdf)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/chung-2018-socc-stratus.bib %})\]  
+\[[Link](http://www.pdl.cmu.edu/PDL-FTP/CloudComputing/p121-Chung.pdf)\] \[[BibTeX](resources/bibtex/chung-2018-socc-stratus.bib)\]  
 
 * **Tributary: spot-dancing for elastic services with latency SLOs**  
 A. Harlap\*, **A. Chung**\*, A. Tumanov, G. R. Ganger, P. B. Gibbons (\* denotes equal contribution)  
 _USENIX Annual Technical Conference, 2018 (USENIX ATC'18)_  
-\[[Link](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/harlap-usenix-atc-2018.pdf)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/harlap-2018-atc-tributary.bib %})\]  
+\[[Link](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/harlap-usenix-atc-2018.pdf)\] \[[BibTeX](resources/bibtex/harlap-2018-atc-tributary.bib)\]  
 
 * **Proteus: agile ML elasticity through tiered reliability in dynamic resource markets**  
 A. Harlap, A. Tumanov, **A. Chung**, G. R. Ganger, P. B. Gibbons  
 _ACM European Conference on Computer Systems, 2017 (EuroSys'17)_  
-\[[Link](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/Proteus.pdf)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/harlap-2017-eurosys-proteus.bib %})\]  
+\[[Link](http://www.pdl.cmu.edu/PDL-FTP/BigLearning/Proteus.pdf)\] \[[BibTeX](resources/bibtex/harlap-2017-eurosys-proteus.bib)\]  
 
 * **Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters**  
 Y. Yang, G. W. Kim, W. W. Song, Y. Lee, **A. Chung**, Z. Qian, B. Cho, B. G. Chun  
 _ACM European Conference on Computer Systems, 2017 (EuroSys'17)_  
-\[[Link](http://dl.acm.org/citation.cfm?id=3064181)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/yang-2017-eurosys-pado.bib %})\]
+\[[Link](http://dl.acm.org/citation.cfm?id=3064181)\] \[[BibTeX](resources/bibtex/yang-2017-eurosys-pado.bib)\]
 
 
 #### Posters and demonstrations
@@ -46,7 +54,7 @@ _ACM European Conference on Computer Systems, 2017 (EuroSys'17)_
 * **Peering through the Dark: An Owl's View of Inter-job Dependencies and Jobs' Impact in Shared Clusters** (Demo)  
 **A. Chung**, C. Curino, S. Krishnan, K. Konstantinos, P. Garefalakis, G. R. Ganger  
 _ACM SIGMOD International Conference on Management of Data, 2019 (SIGMOD'19)_  
-\[[Link](http://www.doc.ic.ac.uk/~pg1712/static/papers/mde696-chungA.pdf)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/chung-2019-sigmod-owl.bib %})\]
+\[[Link](http://www.doc.ic.ac.uk/~pg1712/static/papers/mde696-chungA.pdf)\] \[[BibTeX](resources/bibtex/chung-2019-sigmod-owl.bib)\]
 
 
 #### Journals
@@ -54,7 +62,7 @@ _ACM SIGMOD International Conference on Management of Data, 2019 (SIGMOD'19)_
 * **Apache REEF: Retainable Evaluator Execution Framework**  
 B. G. Chun, T. Condie, Y. Chen, B. Cho, **A. Chung**, C. Curino, C. Douglas, M. Interlandi, B. Jeon, J. S. Jeong, G. W. Lee, Y. Lee, T. Majestro, D. Malkhi, S. Matusevych, B. Myers, M. Mykhailova, S. Narayanamurthy, J. Noor, R. Ramakrishnan, S. Rao, R. Sears, B. Sezgin, T. G. Um, J. Wang, M. Weimer, Y. Yang  
 _ACM Transactions on Computer Systems, Volume 35 Issue 2, 2017_  
-\[[Link](https://dl.acm.org/citation.cfm?id=3132037)\] \[[BibTeX]({{ site.baseurl }}{% link /resources/bibtex/chun-2017-toc-reef.bib %})]
+\[[Link](https://dl.acm.org/citation.cfm?id=3132037)\] \[[BibTeX](resources/bibtex/chun-2017-toc-reef.bib)]
 
 
 ---
