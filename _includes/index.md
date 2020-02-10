@@ -17,8 +17,10 @@ I am interested in the broad area of cloud computing, with a focus on the topic 
 
 ### Thesis: Realizing value in shared compute infrastructures
 
-* **Proposal --- Carnegie Mellon University, 2020-02-06**  
-**Committee**: Gregory R. Ganger, Phillip B. Gibbons, George Amvrosiadis, Carlo Curino  
+**Committee**  
+Gregory R. Ganger (Chair), Phillip B. Gibbons, George Amvrosiadis, Carlo Curino (Microsoft GSL)  
+
+**Proposal --- Carnegie Mellon University, 2020-02-06**  
 \[[Document](resources/docs/thesis-proposal.pdf)\] \[[Slides](resources/docs/thesis-proposal-slides.pdf)\] \[[Poster](resources/docs/thesis-proposal-poster.pdf)\]  
 
 ---
