@@ -71,6 +71,7 @@ _ACM Transactions on Computer Systems, Volume 35 Issue 2, 2017_
 
 ### Teaching
 
+* TA for [Advanced Operating Systems and Distributed Systems (S20)](https://www.cs.cmu.edu/~15712) at Carnegie Mellon University
 * TA for [Advanced Cloud Computing (S18)](https://www.cs.cmu.edu/~15719) at Carnegie Mellon University
 * TA for [Database Applications (S13)](https://www.cs.cmu.edu/~christos/courses/dbms.S13/) at Carnegie Mellon University
 
