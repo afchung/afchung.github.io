@@ -28,7 +28,7 @@ Gregory R. Ganger (Chair), Phillip B. Gibbons, George Amvrosiadis, Carlo Curino 
 ### Publications
 
 #### Peer-reviewed conferences
-* **Unearthing inter-job dependencies forbetter cluster scheduling**  
+* **Unearthing inter-job dependencies for better cluster scheduling**  
 **A. Chung**, S. Krishnan, K. Karanasos, C. Curino, G. R. Ganger  
 _USENIX Symposium on Operating Systems Design and Implementation, 2020 (OSDI'20)_  
 \[[Link](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/chung-osdi20-final136.pdf)\] \[[BibTeX](resources/bibtex/chung-2020-osdi-wing.bib)\]  
