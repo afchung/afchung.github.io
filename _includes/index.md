@@ -28,6 +28,10 @@ Gregory R. Ganger (Chair), Phillip B. Gibbons, George Amvrosiadis, Carlo Curino 
 ### Publications
 
 #### Peer-reviewed conferences
+* **Unearthing inter-job dependencies forbetter cluster scheduling**  
+**A. Chung**, S. Krishnan, K. Karanasos, C. Curino, G. R. Ganger  
+_USENIX, Symposium on Operating Systems Design and Implementation, 2020 (OSDI'20)_  
+\[[Link](https://www.usenix.org/system/files/osdi20-chung.pdf)\] \[[BibTeX](resources/bibtex/chung-2020-osdi-wing.bib)\]  
 
 * **Stratus: cost-aware container scheduling in the public cloud**  
 **A. Chung**, J. W. Park, G. R. Ganger  
@@ -51,20 +55,20 @@ _ACM European Conference on Computer Systems, 2017 (EuroSys'17)_
 \[[Link](http://dl.acm.org/citation.cfm?id=3064181)\] \[[BibTeX](resources/bibtex/yang-2017-eurosys-pado.bib)\]
 
 
-#### Posters and demonstrations
-
-* **Peering through the Dark: An Owl's View of Inter-job Dependencies and Jobs' Impact in Shared Clusters** (Demo)  
-**A. Chung**, C. Curino, S. Krishnan, K. Konstantinos, P. Garefalakis, G. R. Ganger  
-_ACM SIGMOD International Conference on Management of Data, 2019 (SIGMOD'19)_  
-\[[Link](http://www.doc.ic.ac.uk/~pg1712/static/papers/mde696-chungA.pdf)\] \[[BibTeX](resources/bibtex/chung-2019-sigmod-owl.bib)\]
-
-
 #### Journals
 
 * **Apache REEF: Retainable Evaluator Execution Framework**  
 B. G. Chun, T. Condie, Y. Chen, B. Cho, **A. Chung**, C. Curino, C. Douglas, M. Interlandi, B. Jeon, J. S. Jeong, G. W. Lee, Y. Lee, T. Majestro, D. Malkhi, S. Matusevych, B. Myers, M. Mykhailova, S. Narayanamurthy, J. Noor, R. Ramakrishnan, S. Rao, R. Sears, B. Sezgin, T. G. Um, J. Wang, M. Weimer, Y. Yang  
 _ACM Transactions on Computer Systems, Volume 35 Issue 2, 2017_  
 \[[Link](https://dl.acm.org/citation.cfm?id=3132037)\] \[[BibTeX](resources/bibtex/chun-2017-toc-reef.bib)]
+
+
+#### Posters and demonstrations
+
+* **Peering through the Dark: An Owl's View of Inter-job Dependencies and Jobs' Impact in Shared Clusters** (Demo)  
+**A. Chung**, C. Curino, S. Krishnan, K. Konstantinos, P. Garefalakis, G. R. Ganger  
+_ACM SIGMOD International Conference on Management of Data, 2019 (SIGMOD'19)_  
+\[[Link](http://www.doc.ic.ac.uk/~pg1712/static/papers/mde696-chungA.pdf)\] \[[BibTeX](resources/bibtex/chung-2019-sigmod-owl.bib)\]
 
 
 ---
