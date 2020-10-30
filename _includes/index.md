@@ -84,7 +84,8 @@ _ACM SIGMOD International Conference on Management of Data, 2019 (SIGMOD'19)_
 ### Experience
 
 * Committer and PMC member of [Apache REEF](https://reef.apache.org/)
-* Research intern at [Microsoft](https://www.microsoft.com/)'s Cloud and Information Services Lab (CISL), mentored by [Carlo Curino](https://www.microsoft.com/en-us/research/people/ccurino/)
+* Research intern at [Microsoft](https://www.microsoft.com/)'s Gray Systems Lab (GSL), mentored by [Subru Krishnan](https://azuredata.microsoft.com/profile/d1027b58-4ea8-4f59-875a-216bc3276a69)
+* Research intern at [Microsoft](https://www.microsoft.com/)'s Cloud and Information Services Lab (CISL), mentored by [Carlo Curino](https://azuredata.microsoft.com/profile/b130d396-d7aa-4669-815d-d242c9a664b5)
 * Software engineer working on [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) and Apache REEF at Microsoft
 * Technology intern at [Susquehanna International Group](https://www.sig.com/)
 * Application developer intern at [JPMorgan Chase & Co.](https://www.jpmorganchase.com/)
