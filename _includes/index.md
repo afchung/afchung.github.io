@@ -31,7 +31,7 @@ Gregory R. Ganger (Chair), Phillip B. Gibbons, George Amvrosiadis, Carlo Curino 
 * **Unearthing inter-job dependencies for better cluster scheduling**  
 **A. Chung**, S. Krishnan, K. Karanasos, C. Curino, G. R. Ganger  
 _USENIX Symposium on Operating Systems Design and Implementation, 2020 (OSDI'20)_  
-\[[Link](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/chung-osdi20-final136.pdf)\] \[[BibTeX](resources/bibtex/chung-2020-osdi-wing.bib)\]  
+\[[Link](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/chung-osdi20-final136.pdf)\] \[[BibTeX](resources/bibtex/chung-2020-osdi-wing.bib)\] \[[Simulator patch](https://issues.apache.org/jira/browse/YARN-1187)]  
 
 * **Stratus: cost-aware container scheduling in the public cloud**  
 **A. Chung**, J. W. Park, G. R. Ganger  
