@@ -8,26 +8,27 @@
 
 ### About
 
-I am a Ph.D. student at [Carnegie Mellon University's](https://www.cmu.edu/) [Computer Science Department](https://www.csd.cs.cmu.edu/), working with Professor [Greg Ganger](https://www.ece.cmu.edu/~ganger/).
-I am also affiliated with the [Parallel Data Lab](http://www.pdl.cmu.edu).  
-
-I am interested in the broad area of cloud computing, with a focus on the topic of cluster scheduling.
+I am a senior software engineer at [Microsoft Suzhou](https://careers.microsoft.com/v2/global/en/locations/suzhou.html).  
+I obtained my Ph.D. degree from [Carnegie Mellon University's](https://www.cmu.edu/) [School of Computer Science](https://www.cs.cmu.edu/), where I was fortunate to be advised by Professor [Greg Ganger](https://www.ece.cmu.edu/~ganger/).
 
 ---
 
-### Thesis: Realizing value in shared compute infrastructures
+### Thesis
 
-**Committee**  
-Gregory R. Ganger (Chair), Phillip B. Gibbons, George Amvrosiadis, Carlo Curino (Microsoft GSL)  
-
-**Proposal --- Carnegie Mellon University, 2020-02-06**  
-\[[Document](resources/docs/thesis-proposal.pdf)\] \[[Slides](resources/docs/thesis-proposal-slides.pdf)\] \[[Poster](resources/docs/thesis-proposal-poster.pdf)\]  
+**Realizing value in shared compute infrastructures**  
+_Committee: Gregory R. Ganger (Chair), Phillip B. Gibbons, George Amvrosiadis, Carlo Curino_  
+\[[Document](resources/docs/thesis.pdf)\] \[[Slides](resources/docs/thesis-slides.pdf)\]  
 
 ---
 
 ### Publications
 
 #### Peer-reviewed conferences
+* **Towards Building Autonomous Data Services on Azure**  
+Y. Zhu, Y. Tian, J. Cahoon, S. Krishnan, A. Agarwal, R. Alotaibi, J. Camacho-Rodriguez, B. Chundatt, **A. Chung**, N. Dutta, A. Fogarty, A. Gruenheid, B. Haynes, M. Interlandi, M. Iyer, N. Jurgens, S. Khushalani, B. Kroth, M. Kumar, J. Leeka, S. Matusevych, M. Mittal, A. Mueller, K. Muthyala, H. Nagulapalli, Y. Park, H. Patel, A. Pavlenko, O. Poppe, S. Ravindran, K. Saur, R. Sen, S. Suh, A. Tarafdar, K. Waghray, D. Wang, C. Curino, R. Ramakrishnan  
+_ACM SIGMOD International Conference on Management of Data, 2023 (SIGMOD'23)_  
+\[[Link](https://dl.acm.org/doi/abs/10.1145/3555041.3589674)\] \[[BibTeX](resources/bibtex/zhu-2023-sigmod-towards.bib)\]  
+
 * **Unearthing inter-job dependencies for better cluster scheduling**  
 **A. Chung**, S. Krishnan, K. Karanasos, C. Curino, G. R. Ganger  
 _USENIX Symposium on Operating Systems Design and Implementation, 2020 (OSDI'20)_  
@@ -70,6 +71,12 @@ _ACM Transactions on Computer Systems, Volume 35 Issue 2, 2017_
 _ACM SIGMOD International Conference on Management of Data, 2019 (SIGMOD'19)_  
 \[[Link](http://www.doc.ic.ac.uk/~pg1712/static/papers/mde696-chungA.pdf)\] \[[BibTeX](resources/bibtex/chung-2019-sigmod-owl.bib)\]
 
+
+#### Patents
+
+* **Provenance Driven Job Relevance Assessment**
+C. Curino, K. Karanasos, S. Krishnan, C. Douglas, S. Rao, **A. Chung**
+Patent number: _US 10,936,367 B2_
 
 ---
 
