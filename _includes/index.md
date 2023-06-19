@@ -90,6 +90,7 @@ Patent number: _US 10,936,367 B2_
 
 ### Experience
 
+* Senior software engineer working on Microsoft's [Cosmos](https://dl.acm.org/doi/abs/10.14778/3476311.3476390) data platform
 * Committer and PMC member of [Apache REEF](https://reef.apache.org/)
 * Research intern at [Microsoft](https://www.microsoft.com/)'s Gray Systems Lab (GSL), mentored by [Subru Krishnan](https://azuredata.microsoft.com/profile/d1027b58-4ea8-4f59-875a-216bc3276a69)
 * Research intern at [Microsoft](https://www.microsoft.com/)'s Cloud and Information Services Lab (CISL), mentored by [Carlo Curino](https://azuredata.microsoft.com/profile/b130d396-d7aa-4669-815d-d242c9a664b5)
