@@ -74,7 +74,7 @@ _ACM SIGMOD International Conference on Management of Data, 2019 (SIGMOD'19)_
 
 #### Patents
 
-* **Provenance Driven Job Relevance Assessment**
+* **Provenance Driven Job Relevance Assessment**  
 C. Curino, K. Karanasos, S. Krishnan, C. Douglas, S. Rao, **A. Chung**
 Patent number: _US 10,936,367 B2_
 
